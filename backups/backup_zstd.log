@@ -1,0 +1,4 @@
+=== Backup started: 20250624-002126 ===
+Backing up /home/revxngedev/project1 → /home/revxngedev/Desktop/backups/project1_20250624-002126.tar.zst
+WARNING: /home/revxngedev/DoesNotExist     does not exist, skipping.
+=== Backup finished: 20250624-002126 ===
